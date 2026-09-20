@@ -38,4 +38,8 @@ paper:
 clean:
 	rm -rf data/processed/* results/metrics/* results/significance/*
 	find . -name "*.pyc" -delete
-	find . -name "__pycache__" -type d -exec rm -rf {} +
+	find . -name "__pycache__" -type d -exec rm -rf {} 
+	
+sensitivity:
+     
+        python -m src.sensitivity_lambda --dataset all
