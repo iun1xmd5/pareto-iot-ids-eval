@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper."
+title: " "
+authors:
+  - family-names: Kahola
+    given-names: Christopher
+    email: christopher.kahola@dit.ac.tz
+    affiliation: "Department of Computer Studies, Dar es Salaam Institute of Technology"
+  - family-names: Wambura
+    given-names: Stephen
+    email: stephen.wambura@dit.ac.tz
+    affiliation: "Department of Computer Studies, Dar es Salaam Institute of Technology"
+version: 1.0.0
+date-released: 2026-02-01
+license: MIT
+repository-code: "https://github.com/<your-username>/pareto-iot-ids-eval"
+keywords:
+  - IoT security
+  - intrusion detection
+  - deep learning
+  - CNN-LSTM
+  - Bayesian optimization
+  - Pareto analysis
+preferred-citation:
+  type: article
+  title: "Security Evaluation of DL IDS"
+  authors:
+    - family-names: Kahola
+      given-names: Christopher
+    - family-names: Wambura
+      given-names: Stephen
+  journal: ""
+  year: 2026
